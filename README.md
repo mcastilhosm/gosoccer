@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mcastilhosm/gosoccer/master/src/assets/logo.png" height="150" width="175" alt="GoSoccer" />
+</p>
+
+<h3 align="center">
+  Aplicação para gerenciar partidas de futsal amador. 🚀
+</h3>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
