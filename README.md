@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  Aplicação para gerenciar partidas de futsal amador 🚀
+  Aplicação para gerenciar partidas de futebol amador 🚀
 </h3>
 
 <p align="center">
