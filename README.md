@@ -12,6 +12,10 @@
   </a>
 </p>
 
+## 💇🏻‍♂️ Sobre o projeto
+
+Em breve
+
 ## 🚀 Tecnologias
 
 Tecnologias que eu usei para desenvolver
@@ -26,4 +30,51 @@ Tecnologias que eu usei para desenvolver
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
 
-Feito com 💜 por Matheus Castilhos 👋 [Veja meu linkedin](https://www.linkedin.com/in/matheus-castilhos-a5a9a417a/)
+## 💻 Começando
+
+**Clone o projeto e acesse a pasta**
+
+```bash
+$ git clone https://github.com/mcastilhosm/gosoccer.git && cd gosoccer
+```
+
+**Siga os passo abaixo**
+
+```bash
+# Instale as dependências
+$ yarn
+
+# Inicie
+$ yarn start
+```
+
+## 🤔 Como contribuir
+
+**Faça um fork deste repositório**
+
+```bash
+# Bifurque usando a CLI do GitHub
+# Se você não possui a CLI do GitHub, use o site para fazer isso
+
+$ gh repo fork mcastilhosm/gosoccer
+```
+
+**Siga os passos abaixo**
+
+```bash
+# Clone seu fork
+$ git clone your-fork-url && cd gobarber-web
+
+# Crie um branch com sua feature
+$ git checkout -b my-feature
+
+# Faça o commit com suas alterações
+$ git commit -m 'feat: My new feature'
+
+# Envie o código para seu branch remoto
+$ git push origin my-feature
+```
+
+Depois que sua solicitação de recebimento for mesclada, você poderá excluir sua ramificação
+
+Feito com 💜 por Matheus Castilhos 👋
