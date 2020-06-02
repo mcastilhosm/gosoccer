@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## 💇🏻‍♂️ Sobre o projeto
+## ⚽ Sobre o projeto
 
 Em breve
 
